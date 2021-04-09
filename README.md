@@ -40,7 +40,7 @@ import {BrowserRouter as Router, Switch, Route, Link} from 'react-router-dom'
                 <li><Link to="/about"> About </li>
                 <li><Link to="/contact"> Contact </li>
             </ul>
-            <Route path="/" exactly component={Home} />
+            <Route path="/" exact component={Home} />
             <Route path="/about" component={About} />
             <Route path="/contact" component={Contact} />
         </nav>
