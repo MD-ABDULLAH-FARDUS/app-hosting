@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          My First React App
+          Md Abdullah Fardus
         </a>
       </header>
     </div>
